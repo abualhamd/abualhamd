@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abualhamd" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" alt="abualhamd" height="50" width="50" /></a> <a href="mailto:abualhamd.muhammad@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/gmail.png" alt="abualhamd" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/muhammad-abu-alhamd/" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" alt="abualhamd" height="50" width="50" /></a> <a href="mailto:abualhamd.muhammad@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/gmail.png" alt="abualhamd" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
